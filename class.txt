@@ -8,3 +8,10 @@ Khaki
 Coral
 Silver
 Fuchsia
+<<<<<<< HEAD
+=======
+Purple
+Brown
+Red
+
+>>>>>>> a7912c4f6bceed01d3bd0dc126b928bfea150f25
